@@ -8,3 +8,9 @@ The primary goal of this project is to:
 - Model and evaluate coalition formation.
 - Assess internal stability (cohesiveness within coalitions).
 - Analyze external stability (interactions between opposing coalitions).
+
+## Features
+- 📊 Dynamic Stability Analysis: Evaluates internal and external stability between coalitions.
+- 🔄 Simulation of Lanchester Dynamics: Applies mathematical models to coalition behavior.
+- ⚖️ Equilibrium Conditions: Determines when coalitions achieve stability.
+- 📈 Visualizations: Graphical representation of coalition strength and stability over time.
